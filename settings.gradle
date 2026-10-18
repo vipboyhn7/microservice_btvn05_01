@@ -13,3 +13,4 @@ dependencyResolutionManagement {
 
 rootProject.name = 'btvn05'
 include 'api-gateway'
+include 'discovery-service'

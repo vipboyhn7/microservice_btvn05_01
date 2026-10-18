@@ -2,6 +2,8 @@
 build/
 api-gateway/.gradle/
 api-gateway/build/
+discovery-service/.gradle/
+discovery-service/build/
 .idea/
 *.iml
 .DS_Store
