@@ -1,0 +1,7 @@
+.gradle/
+build/
+api-gateway/.gradle/
+api-gateway/build/
+.idea/
+*.iml
+.DS_Store
